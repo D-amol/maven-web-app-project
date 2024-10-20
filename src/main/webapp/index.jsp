@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to SkyAge Global IT Services PVT LTD <font></h1>
+<h1><font color='blue'> Welcome to SkyAge Global IT Services PVT LTD <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See SkyAge Global IT Services</a>
   
