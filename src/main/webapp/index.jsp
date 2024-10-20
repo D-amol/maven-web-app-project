@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to SkyAge Global IT Services PVT LTD <font></h1>
+<h1><font color='green'> Welcome to SkyAge Global IT Services PVT LTD <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See SkyAge Global IT Services</a>
+<a href="hr@skyage.in">Click Here To See SkyAge Global IT Services</a>
   
   <h2> Call Us : +91-9527795205 
   
