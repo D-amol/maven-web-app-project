@@ -6,7 +6,7 @@
   
   <h2> Call Us : +91-9527795205 
   
-  <h3> Our Ofc Location : Kalepadal, Pune </h3>
+  <h3> Our Ofc Location : Hadapsar, Pune </h3>
 
 
 </body>
